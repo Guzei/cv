@@ -1,6 +1,6 @@
 # Гузей Игорь
 
-![20191220-135746-Saslong-Val-Gardena](https://user-images.githubusercontent.com/113085590/201348442-4402509f-f7c9-435e-9ea2-0e2c00f81eda.jpeg "Саслонг - трасса Кубка мира")
+![20191220-135746-Saslong-Val-Gardena]("img/20191220-135746-600 Игорь на Саслонге Saslong.jpeg" "Саслонг - трасса Кубка мира")
 
 ## О себе
 
