@@ -1,6 +1,6 @@
 # Гузей Игорь
 
-![Игорь и Таня на качелях с лыжами](img/1.jpg "Лыжи всегда!")
+![20191220-135746-Saslong-Val-Gardena](https://user-images.githubusercontent.com/113085590/201348442-4402509f-f7c9-435e-9ea2-0e2c00f81eda.jpeg)
 
 ## О себе
 
