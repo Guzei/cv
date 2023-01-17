@@ -68,8 +68,15 @@
 <h2>Портфолио</h2>
 <ul>
 <li>Курсовой проект "Модель ресторана": https://github.com/Guzei/netology/blob/549be74a762049c0b67ab130c871f1c2fd58ebcb/GuzeiIOS_CP-2%20Course%20work.playground/Contents.swift
-<li>Курсовой проект "Трекер полезных привычек": https://github.com/Guzei/netology-MyHabits
-<li>Дипломная работа: https://github.com/Guzei/ios-homwork-navigation
+<br>Цель: применить знание ООП
+<li>Курсовой проект "Звёздные войны": https://github.com/Guzei/netology/tree/main/StarWars%20for%20iOS/StarWars%20for%20iOS
+<br>Цель: разобдаться в чужом коде и дополнить его новыми ценными фитчами
+<li>Курсовой проект "Трекер полезных привычек": 
+<br>https://github.com/Guzei/netology-MyHabits
+<br>Полноценное приложение для работы с табличным представлением данных
+<li>Дипломная работа “Клиент для социальной сети ВКонтакте”
+<br>https://github.com/Guzei/ios-homwork-navigation
+<br>Задачи Создать клиента с авторизацией, валидацией, интерактивом, коллекцией фото, анимацией
 </ul>
 
 ## Опыт преподавания
