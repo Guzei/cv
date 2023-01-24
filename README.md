@@ -19,9 +19,10 @@
 
 ## Портфолио
 <ul>
-<li>Курсовой проект "Модель ресторана":
-<br>https://github.com/Guzei/netology/blob/549be74a762049c0b67ab130c871f1c2fd58ebcb/GuzeiIOS_CP-2%20Course%20work.playground/Contents.swift
-<br>Цель: применить знание ООП
+<li>Проект 1 [Модель ресторана](https://github.com/Guzei/netology/blob/549be74a762049c0b67ab130c871f1c2fd58ebcb/GuzeiIOS_CP-2%20Course%20work.playground/Contents.swift)
+  <br><b>Задачи:</b> Продемонстрировать владение ООП. Для этого создать модель ресторана, сотрудников, заказов.
+  <br><b>Проект выполнент с использованием технологий</b>: Swift, UIKit, ООП, Протоколы, Объекты, Структуры, UserDefaults, делегаты, обработка ошибок, наблюдатели, перечисления, extension
+
 <li>Курсовой проект "Звёздные войны":
 <br>https://github.com/Guzei/netology/tree/main/StarWars%20for%20iOS/StarWars%20for%20iOS
 <br>Цель: разобраться в чужом коде и дополнить его новыми ценными фичами
