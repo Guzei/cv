@@ -1,10 +1,10 @@
 <table>
-<tr style="border: 0">
-<td rowspan=2 style="border-bottom-style: dashed"><img width = "200" src="img/20191220-135746-600%20Игорь%20на%20Саслонге%20Saslong.jpeg" title="Саслонг - трасса Кубка мира"></td>
-<th colspan=2 style="border-collapse: collapse"><h1 style="border: 0">Гузей Игорь</span></h1></th>
+<tr>
+<td rowspan=2><img width=200 src="img/20191220-135746-600%20Игорь%20на%20Саслонге%20Saslong.jpeg" title="Саслонг - трасса Кубка мира"></td>
+<th colspan=2><h1>Гузей Игорь</span></h1></th>
 <tr>
 
-<td border=0><h3>iOS-разработчик</h3>
+<td><h3>iOS-разработчик</h3>
 Профстандарт 06.035
 <br>"Разработчик Web
 <br>и мультимедийных приложений"</td>
@@ -14,7 +14,7 @@
 <br>email: igor@guzei.com</td>
 </table>
 
-<h2 style="border: 0">О себе</h2>
+## О себе
 Огромное желание достичь высокого уровня программировать на Swift. Курсы Нетологии дали большое вдохновение. Учёба прошла легко благодаря большому опыту программирования на других языках.
 
 ## Портфолио
